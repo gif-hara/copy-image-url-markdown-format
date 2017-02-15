@@ -1,4 +1,5 @@
 {
+    "manifest_version": 2,
     "name": "マークダウン形式でコピー",
     "version": "0.1",
     "description": "画像URLをマークダウン形式でクリップボードにコピーします。",
